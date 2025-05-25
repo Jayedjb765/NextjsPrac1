@@ -1,0 +1,94 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Rise of AI in Everyday Life",
+      "author": "Jayed Bin Harez",
+      "date": "2025-05-26",
+      "content": "Artificial Intelligence is becoming a part of our daily lives, from smart assistants to personalized recommendations. In this blog, we explore how AI is reshaping modern living.",
+      "tags": ["AI", "Technology", "Future"],
+      "comments": [
+        {
+          "user": "tech_enthusiast",
+          "comment": "Great read! Looking forward to more articles on AI.",
+          "date": "2025-05-26"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Gardening Tips for Beginners",
+      "author": "Jayed Bin Harez",
+      "date": "2025-05-24",
+      "content": "Starting a garden can be a rewarding hobby. Here are some essential tips for beginners to help plants thrive and stay healthy.",
+      "tags": ["Gardening", "Hobby", "Nature"],
+      "comments": [
+        {
+          "user": "green_thumb",
+          "comment": "Very helpful tips. I just started my own container garden!",
+          "date": "2025-05-25"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Why You Should Visit Kashmir",
+      "author": "Jayed Bin Harez",
+      "date": "2025-05-20",
+      "content": "Kashmir is known as the paradise on Earth. With snow-capped mountains, serene lakes, and vibrant culture, it offers an unforgettable travel experience.",
+      "tags": ["Travel", "Kashmir", "Adventure"],
+      "comments": [
+        {
+          "user": "travel_bug",
+          "comment": "Kashmir is on my bucket list. This blog just made me more excited!",
+          "date": "2025-05-21"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Getting Started with Python GUI",
+      "author": "Jayed Bin Harez",
+      "date": "2025-05-18",
+      "content": "Python GUI development is easier than ever using Tkinter. Learn how to build a simple app with buttons, input fields, and layout design.",
+      "tags": ["Python", "Programming", "GUI"],
+      "comments": [
+        {
+          "user": "code_master",
+          "comment": "Just what I needed for my project. Thanks!",
+          "date": "2025-05-19"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "How to Prepare for the IELTS Speaking Test",
+      "author": "Jayed Bin Harez",
+      "date": "2025-05-15",
+      "content": "Nervous about IELTS speaking? This post covers strategies to practice fluently, build vocabulary, and impress examiners.",
+      "tags": ["IELTS", "Education", "Speaking"],
+      "comments": [
+        {
+          "user": "ielts_ready",
+          "comment": "Helpful techniques. I'll try the sample topics you mentioned!",
+          "date": "2025-05-16"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Exploring Deep Q-Learning in Game Development",
+      "author": "Jayed Bin Harez",
+      "date": "2025-05-10",
+      "content": "Deep Q-Learning is a powerful reinforcement learning technique. In this blog, we discuss how it can be applied to simple games like Tic Tac Toe.",
+      "tags": ["Machine Learning", "DQN", "Games"],
+      "comments": [
+        {
+          "user": "ml_fan",
+          "comment": "This gave me a great idea for my next AI project!",
+          "date": "2025-05-11"
+        }
+      ]
+    }
+  ]
+}
